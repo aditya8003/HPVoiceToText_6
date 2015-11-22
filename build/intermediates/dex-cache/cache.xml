@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aditya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-58f4aa026f79e2fa62ba92f23aead7631bc2ae82.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/classes-f8cc15ed66a990a625cc6cc7c084dbc734bc413e.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6f154d5bf1111522cb4cf92a9eac2a710f0dd132.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3-e0f24bc3783aee9162269b70b2a61bd17f7c6a66.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/libs/httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/httpclient-4.5.1-ad86e81965e7e8c9adbee6d78c998cd49091e0cb.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/classes-46cae91d0f277f7287ea575ab4e2a6767ee097d3.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/libs/httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/httpmime-4.5.1-cb29fcd7a2c0656db3969ad90c3a72486f3fbfe9.jar" />
+    </item>
+    <item
+        jar="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/libs/apache-mime4j-core-0.7.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="/home/aditya/Documents/AndroidExerciseFiles/HPVoiceToTextAPI/app/build/intermediates/pre-dexed/debug/apache-mime4j-core-0.7.2-0fe215112f94b19f4f5753ea0bb50ebe2f32458f.jar" />
+    </item>
+
+</items>
